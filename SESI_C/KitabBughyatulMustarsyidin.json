@@ -1,0 +1,54 @@
+{
+  "Book": [
+    {
+      "book_id": 1,
+      "book_name": "بُغْيَةُ الْمُسْتَرْشِدِيْنَ المُجَلَّدُ الأول",
+      "url_book": "KitabBughyatulMustarsyidin1.pdf",
+      "url_cover_book": "file:///android_asset/image/KitabBughyatulMustarsyidin1.jpg",
+      "short_description": "بُغْيَةُ الْمُسْتَرْشِدِيْنَ المُجَلَّدُ الأول"
+    },
+    {
+      "book_id": 2,
+      "book_name": "بُغْيَةُ الْمُسْتَرْشِدِيْنَ المُجَلَّدُ الثانى",
+      "url_book": "KitabBughyatulMustarsyidin2.pdf",
+      "url_cover_book": "file:///android_asset/image/KitabBughyatulMustarsyidin2.jpg",
+      "short_description": "بُغْيَةُ الْمُسْتَرْشِدِيْنَ المُجَلَّدُ الثانى"
+    },
+    {
+      "book_id": 3,
+	  "book_name": "بُغْيَةُ الْمُسْتَرْشِدِيْنَ المُجَلَّدُ الثالث",
+      "url_book": "KitabBughyatulMustarsyidin3.pdf",
+      "url_cover_book": "file:///android_asset/image/KitabBughyatulMustarsyidin3.jpg",
+      "short_description": "بُغْيَةُ الْمُسْتَرْشِدِيْنَ المُجَلَّدُ الثالث"
+    },
+    {
+      "book_id": 4,
+	  "book_name": "بُغْيَةُ الْمُسْتَرْشِدِيْنَ المُجَلَّدُ الرابع",
+      "url_book": "KitabBughyatulMustarsyidin4.pdf",
+      "url_cover_book": "file:///android_asset/image/KitabBughyatulMustarsyidin4.jpg",
+      "short_description": "بُغْيَةُ الْمُسْتَرْشِدِيْنَ المُجَلَّدُ الرابع"
+    }
+  ],
+  "Chapter": [
+    {
+      "book_id": 1,
+      "chapter_name": " Open Books Now",
+      "page_number": "1"
+    },
+    {
+      "book_id": 2,
+      "chapter_name": " Open Books Now",
+      "page_number": "1"
+    },
+    {
+      "book_id": 3,
+      "chapter_name": " Open Books Now",
+      "page_number": "1"
+    },
+    {
+      "book_id": 4,
+      "chapter_name": " Open Books Now",
+      "page_number": "1"
+    }
+  ]
+}
